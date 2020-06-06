@@ -2,7 +2,7 @@
 a little example to show how smart contract working on the ganache wtih set/get function.
 
 
-make sure that you have installed 'truffle' and 'ganache'
+**make sure that you have installed 'truffle' and 'ganache'**
 
 # 1. run ganache
 

@@ -5,6 +5,7 @@ a little example to show how smart contract working on the ganache wtih set/get 
 make sure that you have installed 'truffle' and 'ganache'
 
 #1. run ganache
+===
 
 'sudo ./ganache-2.4.0-linux-x86_64.AppImage '
 

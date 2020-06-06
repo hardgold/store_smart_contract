@@ -5,17 +5,20 @@ a little example to show how smart contract working on the ganache wtih set/get 
 make sure that you have installed 'truffle' and 'ganache'
 
 1. run ganache
+
 'sudo ./ganache-2.4.0-linux-x86_64.AppImage '
 
 
 
 
 2. new workspace of ganache
+
 A.workspace-add project(import truffle-config.js of text_example_store)
 
 ![image](https://github.com/hardgold/store_smart_contract/blob/master/image_for_readme/image1.png)
 
 B.server
+
 here the ganache port number is 7545,wo don't need to change it.
 ganache-cli port number(default) is 8545.
 with 'truffle develop' command,the port number(default) is 9545.
@@ -29,6 +32,7 @@ then you can save workspace.
 ![image](https://github.com/hardgold/store_smart_contract/blob/master/image_for_readme/image3.png)
 
 3.truffle 
+
 'cd test_example_store'
 'truffle console' 
 

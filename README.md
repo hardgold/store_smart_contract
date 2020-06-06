@@ -34,6 +34,7 @@ then you can save workspace .
 ![image](https://github.com/hardgold/store_smart_contract/blob/master/image_for_readme/image5.png)
 
 4.invoke storesomething.js to interact with contracts[function set()]
+
 'truffle exec js/storesomething.js'
 ![image](https://github.com/hardgold/store_smart_contract/blob/master/image_for_readme/image6.png)
 
@@ -43,6 +44,7 @@ we can see the ganache also responsed
 
 
 5.invoke getsomething.js to interact with contracts[function get()]
+
 'truffle exec js/getsomething.js'
 ![image](https://github.com/hardgold/store_smart_contract/blob/master/image_for_readme/image9.png)
 

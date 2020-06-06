@@ -13,11 +13,11 @@ make sure that you have installed 'truffle' and 'ganache'
 
 #2. new workspace of ganache
 
-A.workspace-add project(import truffle-config.js of text_example_store)
+##A.workspace-add project(import truffle-config.js of text_example_store)
 
 ![image](https://github.com/hardgold/store_smart_contract/blob/master/image_for_readme/image1.png)
 
-B.server
+##B.server
 
 here the ganache port number is 7545,wo don't need to change it.
 ganache-cli port number(default) is 8545.

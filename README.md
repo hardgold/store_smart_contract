@@ -1,5 +1,5 @@
 # store_smart_contract
-a little example to show how smart contract working on the ganache wtih set/get function.
+*a little example to show how smart contract working on the ganache wtih set/get function.*
 
 
 **make sure that you have installed 'truffle' and 'ganache'**
